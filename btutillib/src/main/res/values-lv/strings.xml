@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LDC Dati</string>
+    <string name="title_activity_bluetooth_dialog">Bluetooth dialogs</string>
+    <string name="action_settings">Uzstādījumi</string>
+    <string name="scan">Meklēt…</string>
+    <string name="cancel">Atcelt</string>
+
+</resources>

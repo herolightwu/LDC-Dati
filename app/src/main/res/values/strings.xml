@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    <string name="app_name">LDC Dati</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="barcode_reader_hint">Tap to capture. Pinch/Stretch to zoom</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="read_barcode">Barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+    <string name="scan_bluetooth">Bluetooth</string>
+    <string name="send">Send</string>
+    <string name="waiting_for_tag">Waiting for tag…</string>
+    <string name="server_response">Server response</string>-->
+
+    <string name="app_name">LDC Dati</string>
+    <string name="action_settings">Uzstādījumi</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Noteikšanai nepieciešama pieeja kamerai</string>
+    <string name="no_camera_permission">Aplikācijai nepieciešama pieeja kamerai</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="barcode_reader_hint">Nospiediet, lai nolasītu. Saspiediet/izstiepiet, lai palielinātu</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="scan_barcode">Skenēt svītrkodu</string>
+    <string name="setup_camera">Kamera</string>
+    <string name="auto_focus">Auto fokuss</string>
+    <string name="use_flash">Zibspuldzē</string>
+    <string name="barcode_success">Svītrkods veiksmīgi nolasīts</string>
+    <string name="barcode_failure">Svītrkods nav nolasīts</string>
+    <string name="barcode_error">"Kļūda, nolasot svītrkodu: %1$s"</string>
+    <string name="scan_bluetooth">Savienojums…</string>
+    <string name="send">Pieprasīt</string>
+    <string name="waiting_for_tag">Meklē pēc koda</string>
+    <string name="server_response">Servera atbilde</string>
+    <string name="server_response_result">Atrasti dzīvnieki: %d</string>
+    <string name="app_stop_no_permissions">Programma tika apturēta, jo trūkst atļauju</string>
+    <string name="no_network_available">Nav pieslēguma internetam</string>
+    <string name="app_info">Info</string>
+    <string name="app_error">Aplikācijas kļūda</string>
+    <string name="icon">Icon</string>
+    <string name="search">Meklēt</string>
+    <string name="usage_hint_0">Iegūsti datus kādā no 3 veidiem:</string>
+    <string name="usage_hint_1">ievadi dzīvnieka kodu meklētājā</string>
+    <string name="usage_hint_2">skenē svītrkodu</string>
+    <string name="usage_hint_3">lieto Allflex bluetooth skeneri</string>
+    <string name="register_event">Reģistrēt notikumu</string>
+    <string name="register_event_confirm_title">Reģistrēt notikumu?</string>
+    <string name="register_event_confirm_positive">Reģistrēt</string>
+    <string name="register_event_cancel_title">Atcelt notikuma reģistrēšanu?</string>
+    <string name="register_event_cancel_negative">Nē</string>
+    <string name="register_event_cancel_positive">Jā</string>
+    <string name="authorization">Autorizācija</string>
+    <string name="login_label">Lietotājvārds</string>
+    <string name="password_label">Parole</string>
+    <string name="authorize">Autorizēties</string>
+    <string name="auth_successful">Autorizācija ir veiksmīga!</string>
+    <string name="cancel_session">Beigt sesiju</string>
+    <string name="name">Vārds:</string>
+    <string name="ids">Identifikators(i):</string>
+    <string name="event_type_prompt">Notikums</string>
+    <string name="event_type">Notikuma veids</string>
+    <string name="event_type_1">Dzīvnieks ir bīstams</string>
+    <string name="event_type_5">Reģistrēta dzīvnieka nāve</string>
+    <string name="event_type_6">Reģistrēta dzīvnieka eitanāzija</string>
+    <string name="event_type_7">Dzīvnieks ir sterilizēts</string>
+    <string name="event_type_8">Dzīvnieks pazudis</string>
+    <string name="event_type_9">Dzīvnieks ir vakcinēts</string>
+    <string name="event_type_10">Mainīta turēšanas adrese</string>
+    <string name="event_type_14">Dzīvnieks atrasts</string>
+    <string name="event_type_15">Dzīvnieks atgūts</string>
+    <string name="event_date">Notikuma datums ⃰</string>
+    <string name="danger_end_date">Bīstamības perioda beigu datums</string>
+    <string name="vaccine_type_prompt">Vakcīnas klasifikators ⃰</string>
+    <string name="next_vaccine_date">Nākamās vakcinācijas datums</string>
+    <string name="veterinarian_certificate">Veterinārārsta sertifikāts ⃰</string>
+    <string name="kept_abroad">Vai dzīvnieks tiek turēts ārzemēs?</string>
+    <string name="countryIsoCode">Valsts divu burtu ISO kods ⃰</string>
+    <string name="addressFind">Meklēt adresi</string>
+    <string name="addressCode">Adreses kods ⃰</string>
+    <string name="addressDetails">Adreses precizējums brīva teksta formātā</string>
+    <string name="comments">Notikuma papildu detaļas brīva teksta formātā</string>
+    <string name="save">Saglabāt</string>
+    <string name="cancel">Atcelt</string>
+    <string name="create_event_success">Notikums ir pievienots un veiksmīgi saglabāts\n\nDzīvnieka statuss: %s</string>
+
+</resources>

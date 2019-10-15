@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tv.showclock.showclock.activities.MainActivity">
+    <item
+        android:id="@+id/login"
+        android:orderInCategory="1"
+        android:title="@string/authorization"
+        android:icon="@drawable/ic_face_logged_out"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/scan_bluetooth"
+        android:orderInCategory="2"
+        android:title="@string/scan_barcode"
+        android:icon="@drawable/ic_bluetooth"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/setup_camera"
+        android:orderInCategory="3"
+        android:title="@string/setup_camera"
+        android:icon="@drawable/ic_camera"
+        app:showAsAction="ifRoom"
+        />
+</menu>
