@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="drawableCenter" format="reference"/>
+    <declare-styleable name="CenterDrawableButton">
+        <attr name="drawableCenter"/>
+    </declare-styleable>
+
+    <declare-styleable name="BtnOptions">
+        <attr name="btnBg" format="integer" />
+        <attr name="btnIconLeft" format="integer" />
+        <attr name="btnIconRight" format="integer" />
+        <attr name="btnText" format="string" />
+        <attr name="btnTextStyle" format="integer" />
+        <attr name="btnChecked" format="boolean" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LDC Dati</string>
+    <string name="action_settings">Uzstādījumi</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Noteikšanai nepieciešama pieeja kamerai</string>
+    <string name="no_camera_permission">Aplikācijai nepieciešama pieeja kamerai</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="barcode_reader_hint">Nospiediet, lai nolasītu. Saspiediet/izstiepiet, lai palielinātu</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="scan_barcode">Skenēt svītrkodu</string>
+    <string name="setup_camera">Kamera</string>
+    <string name="auto_focus">Auto fokuss</string>
+    <string name="use_flash">Zibspuldzē</string>
+    <string name="barcode_success">Svītrkods veiksmīgi nolasīts</string>
+    <string name="barcode_failure">Svītrkods nav nolasīts</string>
+    <string name="barcode_error">"Kļūda, nolasot svītrkodu: %1$s"</string>
+    <string name="scan_bluetooth">Savienojums…</string>
+    <string name="send">Pieprasīt</string>
+    <string name="waiting_for_tag">Meklē pēc koda</string>
+    <string name="server_response">Servera atbilde</string>
+    <string name="server_response_result">Atrasti dzīvnieki: %d</string>
+    <string name="app_stop_no_permissions">Programma tika apturēta, jo trūkst atļauju</string>
+    <string name="no_network_available">Nav pieslēguma internetam</string>
+    <string name="app_error">Aplikācijas kļūda</string>
+    <string name="icon">Icon</string>
+    <string name="search">Meklēt</string>
+    <string name="usage_hint_0">Iegūsti datus kādā no 3 veidiem:</string>
+    <string name="usage_hint_1">ievadi dzīvnieka kodu meklētājā</string>
+    <string name="usage_hint_2">skenē svītrkodu</string>
+    <string name="usage_hint_3">lieto Allflex bluetooth skeneri</string>
+
+</resources>

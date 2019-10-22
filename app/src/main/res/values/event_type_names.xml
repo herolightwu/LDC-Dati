@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_type_array">
+        <item>@string/event_type</item>
+<!--        <item>@string/event_type_1</item>-->
+        <item>@string/event_type_5</item>
+        <item>@string/event_type_6</item>
+        <item>@string/event_type_7</item>
+        <item>@string/event_type_8</item>
+        <item>@string/event_type_9</item>
+        <item>@string/event_type_10</item>
+        <item>@string/event_type_14</item>
+        <item>@string/event_type_15</item>
+    </string-array>
+</resources>
